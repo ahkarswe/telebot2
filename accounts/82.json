@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sage-buttress-325010",
+  "private_key_id": "6a944d85440c537940ebe62e2e0b939b9ffd588b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCRZ8bCRRovZM/L\n2oEWKTX3X9gN9WjPnEigMzbFHaDAx/qoHmm4wEYBaXBBKwS/ivjy6FDHPE2Qn9mf\nFgllRVVWilY6IoHV1xW/K3L3ipChnzRJfoENUHmiBw3zqfvXYkm/djuIN70C4VWW\nzAH2DfEGc/9liXJqIfMxbamYLs4MPaXRmhh1BpxjSVIptgrItJO/cFE+eTKIxAMD\nGHaSh40mamhG8sguvVLDxtXMTUHvGJyD0pMKwAEG5kYi3mGpJh6p16c5nClFw5eF\n+UyxPMNH+l+8reAwEkFiWR59PeZKrNz+VZlekWsj4Po0Z0ONVLO+orijyULpXth0\noa1flobTAgMBAAECggEAO3eY100Rp35waavkjV6vXouJPjQ2+GmvXi1z4ev7Gbzv\n65/8lv2z49HuggiI+ZlptVaD6ufjxRlLFIAbuZpAi5MqLr58ISvFDhlD/K9j9WW6\nKbCeMQbPqA+Aij3j7LOa+73sHQrGt43WxkSLLMmI4J3CPxGWhId8AaQa7019IY3a\nyApmtAIh2nqCcG/pBNcka/gvkKD8YaH+mqjf6Y+9qAguHBru5uvrU1hYJ6oEMWJY\nHza2pknFZ6iPXfHpYNkpudC2okM4QB1NrBM0gpJoCkrJlxDdzWYkna4AtvlA2jcp\nQgF3ahVfyb1WlO1bbEUR93rLrN251oY3N3NZm9ZcgQKBgQDNn7dgPHjEM5YSzk4N\n8Vo1qZV98C2+W8PvHLiVts1w8T3b+4xyAKnapj5wEEM3U+CBsuLRtkZO+kzXO20a\n0NyMj7zN6NnrKTR5DW4eS9OzLbRaZmYbqqcQ1f0Myn/RVI3UiajG3aGiP4y//igh\nUQ1Uu4deTUuam7Yg1z5e7tzikwKBgQC1B0khNBXwvwChwPNuLYM3IndQ9Afq2ksK\n5++0NkQOPv6CkZdEaBninjCxm+Nq+UsFUhk8uyfuTa5tK6UM8DyOeQUsSWVt03Vr\nOuHrW81/RYXaOXXJVRmQsSn4L/CF9PJArB9McC0m+Ee7PHInGb8hiRo74eVZBrjV\nIY+m5FUywQKBgCtqw/+QBTf4ZIHICfcrtQ6LpkMXSbFeEvsUJ22FUc+9QICIltkj\nhrniTGDBLlAqZ8c7DGWXhTT76OmxZJI687bCSu13czwSUUAWM+A1xpeY2PIVmQ3S\ndMA7Ttk6kM6UefYcswR6m7x0irWnZrXSNWxkxGqHC6Wzpzs797F34i/9AoGAOONg\nPNn0ZyJu3WYYWbBdws7G9h6p+ki9OmEmt9gxzNRJANkl0y5vrAKQRNA7SFutEq/5\nFFewNbgdr1r+1DEOpqsrT/6ErF2+UYNAicjgrDU52hkihbGDhi/Wg5L1H/OYyXAN\nqeS6m7t8Nz/Ik7cIlE5UeysC+tYc8YVJcmXgzEECgYBqGoEEw5sgVIt8UOXRB8SU\n0GqjcGQ0Ht4g5v+V3r9RoCwFY6l7tQXKDPxLiIS12C8iApZ6NX8Z49CgDhZx+vN6\nSgCWKUsKk/+l7LrPyuj+zRSQT6vdCFr2jL8u6nJ9+7v74ecrbEfBxrsNccNXJ5DF\nKd7o5ONLaR+31vAM4AUdIw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-ly1jl35f-ruq7op77f-nv0k--6@sage-buttress-325010.iam.gserviceaccount.com",
+  "client_id": "117265923125184830072",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-ly1jl35f-ruq7op77f-nv0k--6%40sage-buttress-325010.iam.gserviceaccount.com"
+}
